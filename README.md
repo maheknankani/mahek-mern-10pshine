@@ -1,4 +1,4 @@
-# mahek-mern-10pshine
+
 # Notes App - MERN Stack Application
 
 A full-stack notes application built with MongoDB, Express.js, React, and Node.js. This application allows users to create, edit, delete, and organize their notes with features like pinning, archiving, tagging, and color coding.
